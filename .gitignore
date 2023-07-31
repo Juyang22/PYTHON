@@ -102,3 +102,4 @@ ed10/__pycache__/byme.cpython-38.pyc
 final/__pycache__/__init__.cpython-38.pyc
 final/__pycache__/naver_search_api.cpython-38.pyc
 >>>>>>> final
+*.pyc
